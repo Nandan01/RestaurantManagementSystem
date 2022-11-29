@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CustomerPay {
+public class PayStrategy {
     public static void main(String[] args) {
         System.out.println("Please select Payment Type: Cash || Debit Card || Credit Card || Apple Pay || PayPal");
         Scanner scanner = new Scanner (System.in);
